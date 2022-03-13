@@ -8,7 +8,7 @@ interface Props {
     style?: CSSProperties;
 }
 
-export const ProductTitle = ({ title, className, style }:Props) => {
+export const ProductTitle = ({ title, className, style }: Props) => {
     const { product } = useContext( productContext );
     return (
         <span 

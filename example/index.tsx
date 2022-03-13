@@ -5,7 +5,7 @@ import { ProductCard, ProductImage, ProductTitle, ProductButtonsCounter } from '
 
 const product = {
   id: '1',
-  title: 'Coffe Mug Card'
+  title: 'Coffe Mug Card!'
 };
 
 const App = () => {
